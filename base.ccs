@@ -1,0 +1,10 @@
+body, div, span, ul, ol, li, h1, h2, h3, h4, h5, h6, p, img, dl, dt, dd, table, td, th, hr, sub, sup, form, select, fieldset, input, button, textarea {
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul, li{
+    list-style: none;
+}
